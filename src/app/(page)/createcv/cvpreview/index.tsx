@@ -40,7 +40,7 @@ const CVPreview = () => {
           <h2 className="text-xl font-black mb-5">About</h2>
           <p>
             Passionate software engineer with 5 years of experience in developing scalable web applications and working
-            across the full stack.
+            across the full stack. 123
           </p>
         </div>
         {/* Work Experienct */}
